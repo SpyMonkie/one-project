@@ -2,7 +2,12 @@
 <!DOCTYPE html>
 <html>
   <head>
-  <title></title>
+     <style>
+  * {
+    color:#fff;
+    font-family:Roboto;
+    }
+  </style>
   </head>
   <body>
   <h1>Minecraft</h1>
